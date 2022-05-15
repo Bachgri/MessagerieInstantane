@@ -20,8 +20,18 @@ class User extends Authenticatable{
         'name',
         'email',
         'password',
+        'status'
     ];
 
+    public function messages(){
+        return $this->hasMany(Message::class, 'userReceiveId','id' );
+    }
+    public function groupes(){
+        return $this->hasMany(Groupe::class, 'idAdmin', 'id');
+    }
+    public function messagesdegropes(){
+        return $this->hasMany(Messagesdegroupes::class, 'userId','id');
+    }
     /**
      * The attributes that should be hidden for serialization.
      *

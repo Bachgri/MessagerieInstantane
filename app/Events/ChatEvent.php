@@ -13,14 +13,14 @@ use Illuminate\Queue\SerializesModels;
 class ChatEvent implements ShouldBroadcast{
     use Dispatchable, InteractsWithSockets, SerializesModels;
 
-    public  $name;public  $message;
+    public  $id;public  $message;
     /**
      * Create a new event instance.
      *
      * @return void
      */
-    public function __construct(String $name, String $message){
-        $this->name=$name;
+    public function __construct(String $id, String $message){
+        $this->nidame=$id;
         $this->message = $message;
     }
 
@@ -32,6 +32,7 @@ class ChatEvent implements ShouldBroadcast{
     public function broadcastOn(){
         return new Channel('chat');
     }
+    
     public function broadcastAs(){
         return 'chat-message';
     }

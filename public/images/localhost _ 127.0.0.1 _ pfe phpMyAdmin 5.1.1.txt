@@ -1,0 +1,949 @@
+←
+phpMyAdmin <http://localhost/phpmyadmin/index.php>
+Home <http://localhost/phpmyadmin/index.php?route=/> Empty session data
+<http://localhost/phpmyadmin/index.php?route=/logout> phpMyAdmin
+documentation <http://localhost/phpmyadmin/doc/html/index.html> MariaDB
+Documentation
+<http://localhost/phpmyadmin/url.php?url=https%3A%2F%2Fmariadb.com%2Fkb%2Fen%2Fdocumentation%2F> Navigation panel settings <#> Reload navigation panel <#>
+Loading…
+Recent
+
+  * `pfe`.`groupes`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=pfe&table=groupes>
+  * `pfe`.`membres`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=pfe&table=membres>
+  * `pfe`.`messagesdegroupes`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=pfe&table=messagesdegroupes>
+  * `pfe`.`migrations`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=pfe&table=migrations>
+  * `miniprojet`.`produits`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=miniprojet&table=produits>
+  * `miniprojet`.`commande`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=miniprojet&table=commande>
+  * `miniprojet`.`lignecommande`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=miniprojet&table=lignecommande>
+  * `miniprojet`.`client`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=miniprojet&table=client>
+  * `bdcomerciale`.`tclient`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=bdcomerciale&table=tclient>
+  * `magasin`.`produit`
+    <http://localhost/phpmyadmin/index.php?route=/table/recent-favorite&db=magasin&table=produit>
+
+Favorites
+
+  * There are no favorite tables.
+
+  *
+    Collapse all <#>Unlink from main panel <#>
+
+  *
+    /
+
+    /
+    <http://localhost/phpmyadmin/index.php?route=/server/databases&server=1>
+    New
+    <http://localhost/phpmyadmin/index.php?route=/server/databases&server=1>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=authentification&>
+    authentification
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=authentification>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=bdcomerciale&>
+    bdcomerciale
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=bdcomerciale>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=chatapp&>
+    chatapp
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=chatapp>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=chatify&>
+    chatify
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=chatify>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=ecomerce&>
+    ecomerce
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=ecomerce>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=formation&>
+    formation
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=formation>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=indi&>
+    indi
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=indi>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=information_schema&>
+    information_schema
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=information_schema>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=laravel&>
+    laravel
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=laravel>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=magasin&>
+    magasin
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=magasin>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=miniprojet&>
+    miniprojet
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=miniprojet>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=mysql&>
+    mysql
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=mysql>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=new_pfe&>
+    new_pfe
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=new_pfe>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=performance_schema&>
+    performance_schema
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=performance_schema>
+  *
+    /
+
+    /
+    *
+
+    *<#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=pfe&>
+    pfe
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=pfe>
+      o
+        /
+
+        /
+        New
+        <http://localhost/phpmyadmin/index.php?route=/table/create&server=1&db=pfe>
+        New
+        <http://localhost/phpmyadmin/index.php?route=/table/create&server=1&db=pfe>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=admins>
+        admins
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=admins&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=failed_jobs>
+        failed_jobs
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=failed_jobs&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=groupes>
+        groupes
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=groupes&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=invitations>
+        invitations
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=invitations&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=membres>
+        membres
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=membres&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=messages>
+        messages
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=messages&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=migrations>
+        migrations
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=migrations&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=notifications>
+        notifications
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=notifications&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=password_resets>
+        password_resets
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=password_resets&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /
+        *
+
+        *Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=personal_access_tokens>
+        personal_access_tokens
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=personal_access_tokens&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+      o
+        /
+
+        /Expand/Collapse <#>
+        Structure
+        <http://localhost/phpmyadmin/index.php?route=/table/structure&server=1&db=pfe&table=users>
+        users
+        <http://localhost/phpmyadmin/index.php?route=/sql&server=1&db=pfe&table=users&pos=0>Hide <http://localhost/phpmyadmin/index.php?route=/navigation>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=pfe2&>
+    pfe2
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=pfe2>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=phpmyadmin&>
+    phpmyadmin
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=phpmyadmin>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=projet&>
+    projet
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=projet>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=site&>
+    site
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=site>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=test&>
+    test
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=test>
+  *
+    /
+
+    /
+    *
+
+    *Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=yout&>
+    yout
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=yout>
+  *
+    /
+
+    /Expand/Collapse <#>
+    Database operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&server=1&db=yout0&>
+    yout0
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=yout0>
+
+Drop files here
+
+
+    SQL upload ( 0 ) x -
+
+ 1. Server: 127.0.0.1 <http://localhost/phpmyadmin/index.php?route=/>
+ 2. Database: pfe
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&db=pfe>
+
+  * Structure Structure
+    <http://localhost/phpmyadmin/index.php?route=/database/structure&db=pfe>
+  * SQL SQL
+    <http://localhost/phpmyadmin/index.php?route=/database/sql&db=pfe>
+  * Search Search
+    <http://localhost/phpmyadmin/index.php?route=/database/search&db=pfe>
+  * Query Query
+    <http://localhost/phpmyadmin/index.php?route=/database/multi-table-query&db=pfe>
+  * Export Export
+    <http://localhost/phpmyadmin/index.php?route=/database/export&db=pfe>
+  * Import Import
+    <http://localhost/phpmyadmin/index.php?route=/database/import&db=pfe>
+  * Operations Operations
+    <http://localhost/phpmyadmin/index.php?route=/database/operations&db=pfe>
+  * Privileges Privileges
+    <http://localhost/phpmyadmin/index.php?route=/server/privileges&db=pfe&checkprivsdb=pfe&viewing_mode=db>
+  * Routines Routines
+    <http://localhost/phpmyadmin/index.php?route=/database/routines&db=pfe>
+  * More <#>
+      o Events Events
+        <http://localhost/phpmyadmin/index.php?route=/database/events&db=pfe>
+      o Triggers Triggers
+        <http://localhost/phpmyadmin/index.php?route=/database/triggers&db=pfe>
+      o Tracking Tracking
+        <http://localhost/phpmyadmin/index.php?route=/database/tracking&db=pfe>
+      o Designer Designer (current)
+        <http://localhost/phpmyadmin/index.php?route=/database/designer&db=pfe>
+      o Central columns Central columns
+        <http://localhost/phpmyadmin/index.php?route=/database/central-columns&db=pfe> 
+
+Page-related settings Click on the bar to scroll to top of page <#>
+SQL Query Console Console
+Clear
+History
+Options
+Bookmarks
+Debug SQL
+Press Ctrl+Enter to execute query Press Enter to execute query
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT * FROM `tclient`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+ALTER TABLE tclient ADD COLUMN Solde int(20);
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT * FROM `tclient`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT * FROM `tclient`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+CALL ProcCaseSolvable(@p0, @p1);
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1 as message;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1 as message;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+CALL ProcCaseSolvable(@p0, @p1);
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p0;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT * FROM `tclient`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+CALL ProcCaseSolvable(@p0, @p1);
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT * FROM `tclient`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+call procCaseSolvable(@p0,@p1);
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : bdcomerciale Queried time : During current session
+SELECT @p1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : During current session
+SELECT * FROM `client`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : During current session
+SELECT produits.* from commande JOIN lignecommande on Num=NumCmd join
+produits on Ref = refProd WHERE emailClt = 'oualidlachgar7@gmail.com';
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : During current session
+SELECT produits.* from commande JOIN lignecommande on Num=NumCmd join
+produits on Ref = refProd WHERE emailClt = 'oualidlachgar7@gmail.com';
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : During current session
+SELECT * from commande JOIN lignecommande on Num=NumCmd join produits on
+Ref = refProd WHERE emailClt = 'oualidlachgar7@gmail.com';
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : During current session
+SELECT * FROM `produits`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:29:30
+SELECT * FROM `lignecommande`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:29:49
+DELETE FROM `lignecommande` WHERE 1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:29:52
+SELECT * FROM `produits`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:29:54
+SELECT * FROM `commande`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:30:6
+DELETE FROM `commande` WHERE 1;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:30:11
+SELECT * FROM `produits`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:30:19
+UPDATE `produits` SET `Ref` = 'headphone_black' WHERE `produits`.`Ref` =
+'headphone black';
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:30:30
+UPDATE `produits` SET `Ref` = 'manetta_white' WHERE `produits`.`Ref` =
+'manetta white';
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : miniprojet Queried time : 0:30:36
+UPDATE `produits` SET `Ref` = 'PC_Lenoco' WHERE `produits`.`Ref` = 'PC
+Lenoco';
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:1:33
+SELECT * FROM `migrations`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:1:42
+DELETE FROM `migrations` WHERE `migrations`.`id` = 14
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:1:55
+SELECT * FROM `migrations`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:2:2
+DROP TABLE `messagesdegroupe`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:2:25
+SELECT * FROM `messagesdegroupes`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:10:37
+SELECT * FROM `messagesdegroupes`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:23:17
+SELECT * FROM `messagesdegroupes`
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:23:42
+DELETE FROM `messagesdegroupes` WHERE 01;
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : pfe Queried time : 1:24:7
+SELECT * FROM `membres`
+​x
+ 
+
+​
+
+ascending
+descending
+Order:
+Debug SQL
+Count
+Execution order
+Time taken
+Order by:
+Group queries
+Ungroup queries
+Some error occurred while getting SQL debug info.
+Collapse Expand Show trace Hide trace Count Time taken
+Bookmarks
+Refresh
+Add
+No bookmarks
+Add bookmark
+Label: Target database: Share this bookmark OK
+
+xxxxxxxxxx
+
+ 
+
+​
+
+Options
+Set default
+Always expand query messages
+Show query history at start
+Show current browsing query
+Execute queries on Enter and insert new line with Shift + Enter. To make
+this permanent, view settings.
+Switch to dark theme
+Collapse Expand Requery Edit Explain Profiling Bookmark Query failed
+Database : Queried time :
+Untitled *
+v Show/Hide tables list <#> [Exit fullscreen] Exit fullscreen <#> [Add
+tables from other databases] Add tables from other databases <#> New
+page <#> [Open page] Open page <#> [Save page] Save page <#> [Save page
+as] Save page as <#> [Delete pages] Delete pages <#> [Create table]
+Create table <#> [Create relationship] Create relationship <#> [Choose
+column to display] Choose column to display <#> [Reload] Reload <#>
+[Help] Help <http://localhost/phpmyadmin/doc/html/faq.html#faq6-31>
+[Angular links / Direct links] Angular links / Direct links <#> [Snap to
+grid] Snap to grid <#> v Small/Big All <#> [Toggle small/big] Toggle
+small/big <#> [Toggle relationship lines] Toggle relationship lines <#>
+[Export schema] Export schema <#> > Move Menu <#> > Pin text <#>
+v <#> v <#>
+		pfe.admins
+		pfe.failed_jobs
+		pfe.groupes
+		pfe.invitations
+		pfe.membres
+		pfe.messages
+		pfe.messagesdegroupes
+		pfe.migrations
+		pfe.notifications
+		pfe.password_resets
+		pfe.personal_access_tokens
+		pfe.users
+
+Number of tables: 12
+v 	[See table structure] 	pfe admins
+* id : bigint(20) unsigned
+* userId : bigint(20) unsigned
+* groupId : bigint(20) unsigned
+* created_at : timestamp
+* updated_at : timestamp
+
+v 	[See table structure] 	pfe failed_jobs
+* id : bigint(20) unsigned
+* uuid : varchar(255)
+* connection : text
+* queue : text
+* payload : longtext
+* exception : longtext
+* failed_at : timestamp
+
+v 	[See table structure] 	pfe groupes
+* id : bigint(20) unsigned
+* idAdmin : bigint(20) unsigned
+* nom : varchar(255)
+* Thematique : varchar(255)
+* logo : varchar(255)
+* created_at : timestamp
+* updated_at : timestamp
+
+v 	[See table structure] 	pfe invitations
+* id : bigint(20) unsigned
+* userId : bigint(20) unsigned
+* groupId : bigint(20) unsigned
+* created_at : timestamp
+* updated_at : timestamp
+* type : varchar(28)
+
+v 	[See table structure] 	pfe membres
+* id : bigint(20) unsigned
+* userId : bigint(20) unsigned
+* groupId : bigint(20) unsigned
+* created_at : timestamp
+* updated_at : timestamp
+
+v 	[See table structure] 	pfe messages
+* id : bigint(20) unsigned
+* estLu : tinyint(1)
+* content : varchar(255)
+* userSentId : bigint(20) unsigned
+* date : date
+* created_at : timestamp
+* updated_at : timestamp
+* userReceiveId : bigint(20)
+* type : varchar(28)
+
+v 	[See table structure] 	pfe messagesdegroupes
+* id : bigint(20) unsigned
+* userId : bigint(20) unsigned
+* groupId : bigint(20) unsigned
+* type : varchar(255)
+* content : text
+* created_at : timestamp
+* updated_at : timestamp
+
+v 	[See table structure] 	pfe migrations
+* id : int(10) unsigned
+* migration : varchar(255)
+* batch : int(11)
+
+v 	[See table structure] 	pfe notifications
+* id : bigint(20) unsigned
+* date : date
+* messageId : bigint(20) unsigned
+* created_at : timestamp
+* updated_at : timestamp
+
+v 	[See table structure] 	pfe password_resets
+* email : varchar(255)
+* token : varchar(255)
+* created_at : timestamp
+
+v 	[See table structure] 	pfe personal_access_tokens
+* id : bigint(20) unsigned
+* tokenable_type : varchar(255)
+* tokenable_id : bigint(20) unsigned
+* name : varchar(255)
+* token : varchar(64)
+* abilities : text
+* last_used_at : timestamp
+* created_at : timestamp
+* updated_at : timestamp
+
+v 	[See table structure] 	pfe users
+* id : bigint(20) unsigned
+* name : varchar(255)
+* email : varchar(255)
+* email_verified_at : timestamp
+* password : varchar(255)
+* status : varchar(255)
+* profilePecture : varchar(255)
+* estAdmin : tinyint(1)
+* remember_token : varchar(100)
+* created_at : timestamp
+* updated_at : timestamp
+* Rol : varchar(20)
+
+		
+	
+*Create relationship *
+*FOREIGN KEY *
+on delete 	
+on update 	
+
+	
+		
+
+		
+	
+*Delete relationship *
+
+	
+		
+
+Open new phpMyAdmin window
+<http://localhost/phpmyadmin/index.php?route=%2Fdatabase%2Fdesigner&db=pfe&server=1>
+Page-related settings
+Close
+
+  * Navigation panel <#Navi_panel>
+  * Navigation tree <#Navi_tree>
+  * Servers <#Navi_servers>
+  * Databases <#Navi_databases>
+  * Tables <#Navi_tables>
+
+Navigation panel
+
+Customize appearance of the navigation panel.
+
+Show databases navigation as treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_ShowDatabasesNavigationAsTree>
+In the navigation panel, replaces the database tree with a selector
+
+	<#ShowDatabasesNavigationAsTree>
+Link with main panelDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationLinkWithMainPanel>
+Link with main panel by highlighting the current database or table.
+
+	<#NavigationLinkWithMainPanel>
+Display logoDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationDisplayLogo>
+Show logo in navigation panel.
+
+	<#NavigationDisplayLogo>
+Logo link URLDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationLogoLink>
+URL where logo in the navigation panel will point to.
+
+	<#NavigationLogoLink>
+Logo link targetDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationLogoLinkWindow>
+Open the linked page in the main window (|main|) or in a new one (|new|).
+
+	<#NavigationLogoLinkWindow>
+Enable highlightingDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreePointerEnable>
+Highlight server under the mouse cursor.
+
+	<#NavigationTreePointerEnable>
+Maximum items on first levelDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_FirstLevelNavigationItems>
+The number of items that can be displayed on each page on the first
+level of the navigation tree.
+
+	<#FirstLevelNavigationItems>
+Minimum number of items to display the filter boxDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeDisplayItemFilterMinimum>
+Defines the minimum number of items (tables, views, routines and events)
+to display a filter box.
+
+	<#NavigationTreeDisplayItemFilterMinimum>
+Recently used tablesDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NumRecentTables>
+Maximum number of recently used tables; set 0 to disable.
+
+	<#NumRecentTables>
+Favorite tablesDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NumFavoriteTables>
+Maximum number of favorite tables; set 0 to disable.
+
+	<#NumFavoriteTables>
+Navigation panel widthDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationWidth>
+Set to 0 to collapse navigation panel.
+
+	<#NavigationWidth>
+
+Navigation tree
+
+Customize the navigation tree.
+
+Maximum items in branchDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_MaxNavigationItems>
+The number of items that can be displayed on each page of the navigation
+tree.
+
+	<#MaxNavigationItems>
+Group items in the treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeEnableGrouping>
+Group items in the navigation tree (determined by the separator defined
+in the Databases and Tables tabs above).
+
+	<#NavigationTreeEnableGrouping>
+Enable navigation tree expansionDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeEnableExpansion>
+Whether to offer the possibility of tree expansion in the navigation panel.
+
+	<#NavigationTreeEnableExpansion>
+Show tables in treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeShowTables>
+Whether to show tables under database in the navigation tree
+
+	<#NavigationTreeShowTables>
+Show views in treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeShowViews>
+Whether to show views under database in the navigation tree
+
+	<#NavigationTreeShowViews>
+Show functions in treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeShowFunctions>
+Whether to show functions under database in the navigation tree
+
+	<#NavigationTreeShowFunctions>
+Show procedures in treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeShowProcedures>
+Whether to show procedures under database in the navigation tree
+
+	<#NavigationTreeShowProcedures>
+Show events in treeDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeShowEvents>
+Whether to show events under database in the navigation tree
+
+	<#NavigationTreeShowEvents>
+Expand single databaseDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeAutoexpandSingleDb>
+Whether to expand single database in the navigation tree automatically.
+
+	<#NavigationTreeAutoexpandSingleDb>
+
+Servers
+
+Servers display options.
+
+Display servers selectionDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationDisplayServers>
+Display server choice at the top of the navigation panel.
+
+	<#NavigationDisplayServers>
+Display servers as a listDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_DisplayServersList>
+Show server listing as a list instead of a drop down.
+
+	<#DisplayServersList>
+
+Databases
+
+Databases display options.
+
+Minimum number of databases to display the database filter
+boxDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeDisplayDbFilterMinimum> 	<#NavigationTreeDisplayDbFilterMinimum>
+Database tree separatorDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeDbSeparator>
+String that separates databases into different tree levels.
+
+	<#NavigationTreeDbSeparator>
+
+Tables
+
+Tables display options.
+
+Target for quick access iconDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeDefaultTabTable> 	<#NavigationTreeDefaultTabTable>
+Target for second quick access iconDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeDefaultTabTable2> 	<#NavigationTreeDefaultTabTable2>
+Table tree separatorDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeTableSeparator>
+String that separates tables into different tree levels.
+
+	<#NavigationTreeTableSeparator>
+Maximum table tree depthDocumentation
+<http://localhost/phpmyadmin/doc/html/config.html#cfg_NavigationTreeTableLevel> 	<#NavigationTreeTableLevel>
+
+ApplyCancel
