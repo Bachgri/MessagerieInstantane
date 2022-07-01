@@ -6,8 +6,9 @@
             <div class="flex items-end justify-end">
                 <div class="flex flex-col space-y-2 text-xs max-w-xs mx-2 order-1 items-end rounded-lg inline-block rounded-br-none bg-blue-600 text-white">
                     <div>
+                        <span class="tex-sm"> le {{$message->greated_at->format('Y-m-d')}} </span>
                         <span class="px-4 py-2 rounded-lg inline-block rounded-br-none bg-blue-600 text-white ">
-                            {{$message->content}}
+                            {{\Crypt::decryptString($message->content)}}
                         </span><br>
                     </div>
                 </div>
@@ -19,7 +20,7 @@
                 <div class="flex flex-col space-y-2 text-xs max-w-xs mx-2 order-2 items-start">
                     <div>
                         <span class="px-4 py-2 rounded-lg inline-block rounded-bl-none bg-gray-300 text-gray-600">
-                            {{$message->content}}
+                            {{ \Crypt::decryptString($message->content)}}
                         </span>
                     </div>
                 </div>

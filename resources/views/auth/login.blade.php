@@ -17,8 +17,8 @@
         <x-auth-session-status class="mb-4" :status="session('status')" />
 
         <!-- Validation Errors -->
-        <x-auth-validation-errors class="mb-4" :errors="$errors" />
-
+        
+        
         <form method="POST" action="{{ route('login') }}">
             @csrf
             <!-- Email Address -->
@@ -37,13 +37,13 @@
 
             <!-- Password -->
             <div class="mt-4">
-                <x-label for="password" :value="__('Password')" />
+                <x-label for="password" :value="__('Mot de passe')" />
 
                 <x-input id="password" class="block mt-1 w-full form-control block w-full px-4 py-2 text-xl font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
                                 type="password"
                                 name="password"
                                 required autocomplete="current-password" 
-                                placeholder="Password"
+                                placeholder="Mot de passe"
                                 />
             </div>
 
@@ -51,18 +51,25 @@
             <div class="block mt-4">
                 <label for="remember_me" class="inline-flex items-center">
                     <input id="remember_me" type="checkbox" class="rounded border-gray-300 text-indigo-600 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50" name="remember">
-                    <span class="ml-2 text-sm text-gray-600">{{ __('Remember me') }}</span>
+                    <span class="ml-2 text-sm text-gray-600">{{ __('Se souvenire de moi') }}</span>
                 </label>
             </div>
-            <div class="flex items-center justify mt-4">
-                <x-button class="ml-3">
-                    {{ __('Log in') }}
+            <div class="flex items-center justify mt-2">
+                <x-button class="ml-1">
+                    {{ __('Se connecter') }}
                 </x-button>
-                @if (Route::has('password.request'))
-                    <a class="underline text-sm text-gray-600 hover:text-gray-900 margin-left-400" href="{{ route('password.request') }}">
-                        {{ __('Forgot your password?') }}
+                <div>
+                    <a class="underline text-sm text-gray-600 mx-10 hover:text-gray-900 margin-left-400" href="/registre">
+                            {{ __('Créer un compte') }}
                     </a>
-                @endif
+                </div>
+                <div>
+                    @if (Route::has('password.request'))
+                    <a class="underline text-sm text-gray-600 hover:text-gray-900 margin-left-400" href="{{ route('password.request') }}">
+                        {{ __('Mot de passe oublié ?') }}
+                    </a>
+                    @endif
+                </div>
             </div>
         </form>
     </x-auth-card>

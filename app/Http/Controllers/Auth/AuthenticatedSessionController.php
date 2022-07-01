@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 namespace App\Http\Controllers\Auth;
 
@@ -16,8 +16,7 @@ class AuthenticatedSessionController extends Controller
      *
      * @return \Illuminate\View\View
      */
-    public function create()
-    {
+    public function create(){
         return view('auth.login');
     }
 
@@ -31,7 +30,8 @@ class AuthenticatedSessionController extends Controller
         
         $request->authenticate();
         $user = User::find(Auth::user()->id);
-        $user->status = 'horsligne';
+        $user->status = 'online';
+        $user->updated_at = time();
         $user->save();
         $request->session()->regenerate();
         return redirect('/messages');
